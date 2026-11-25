@@ -66,7 +66,7 @@
 
 Aicut provides an AI-powered video generation platform enabling creators to produce faceless YouTube, TikTok, and Instagram videos automatically. Leveraging advanced text‑to‑video models, it offers voiceover, captions, and auto‑scheduling features, targeting marketers and content creators seeking scalable video content. The service includes a free tier and paid plans with higher resolution outputs and brand customization.
 
-**Areas:** AI · VideoGeneration · Marketing · ContentCreation · Automation · Company
+**Areas:** Artificial Intelligence · Video Generation · Marketing · Content Creation · Automation · Company
 
 ## Aicut on APIs.io
 
@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aicut Pro Domain Security](https://apis.io/security/aicut-pro/aicut-pro-domain-security/)
+- [Aicut Domain Security](https://apis.io/security/aicut-pro/aicut-pro-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aicut Pro Plans Pricing](https://apis.io/plans/aicut-pro/aicut-pro-plans-pricing/)
+- [Aicut Plans Pricing](https://apis.io/plans/aicut-pro/aicut-pro-plans-pricing/)
 
 ## Where to find this API
 
@@ -101,7 +101,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aicut-pro/](https://apis.io/providers/aicut-pro/).
+**Kin Score 19.4** — emerging · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 66.0 |
+
+**Agent readiness 17.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 12.7** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aicut-pro/](https://apis.io/providers/aicut-pro/).
 
 ## How this profile is made
 
